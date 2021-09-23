@@ -1,11 +1,11 @@
 ### Oiie! Eu sou a Alana Pereira 🧁
 
-- 🌈 I'm a Scientist who loves learning
-- 🥨 I’m currently working on Data Analysis
-- 🌱 I’m currently learning Python, HTML, JavaScript
-- 🎗 Pronouns: she/her/ela
-- ✨ E-mail: alanakelyene@gmail.com 
-- 🍫 Hobbies: Lettering, WaterColor, Biking
+- 🌈 Sou Química por formação (com Doutorado em Química Orgânica) que ama aprender
+- 🥨 Atualmente trabalho com Análise de Dados
+- 🌱 Estou aprendendo Python e me aventurando em HTML, JavaScript e CSS
+- 🎗 Pode referir a mim como: ela/dela (she/her)
+- ✨ Me contate pelo e-mail: alanakelyene@gmail.com 
+- 🍫 Meus hobbies são lettering, aquarela, cozinhar e andar de Bike por aí
 
 
 <div align="center">
